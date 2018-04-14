@@ -1,3 +1,6 @@
+ecosia.org#@#.results-ads
+ecosia.org#@#.card-ad
+ecosia.org#@#.js-ad
 @@||duckduckgo.com^$document
 @@||carbonads.com
 @@||carbonads.net

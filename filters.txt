@@ -1,8 +1,4 @@
-@@||duckduckgo.com/?q=$elemhide
-@@||duckduckgo.com^*^q=$elemhide
-@@||duckduckgo.com/lite$elemhide
-@@||duckduckgo.com/html$elemhide
-
+@@||duckduckgo.com^$document
 @@||carbonads.com
 @@||carbonads.net
 @@||buysellads.com

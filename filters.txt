@@ -12,3 +12,9 @@ readthedocs.io#@#.ethical-rtd
 @@||buysellads.com
 @@||servedby-buysellads.com
 @@||doubleclick.net/ddm
+@@||flyertown.ca
+@@||flipp.com
+@@||connatix.com
+@@||ntv.io
+@@||nativo.com
+@@||postrelease.com

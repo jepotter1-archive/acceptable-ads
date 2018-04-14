@@ -2,7 +2,9 @@ ecosia.org#@#.results-ads
 ecosia.org#@#.card-ad
 ecosia.org#@#.js-ad
 ecosia.org##.js-funnel-whitelistbox
-@@||duckduckgo.com^$document
+duckduckgo.com#@##ads
+duckduckgo.com#@#.has-ad
+duckduckgo.com#@#.result--ad
 @@||carbonads.com
 @@||carbonads.net
 @@||buysellads.com

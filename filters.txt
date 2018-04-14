@@ -1,0 +1,7 @@
+@@||duckduckgo.com/*^$document
+
+@@||carbonads.com
+@@||carbonads.net
+@@||buysellads.com
+@@||servedby-buysellads.com
+@@||doubleclick.net/ddm

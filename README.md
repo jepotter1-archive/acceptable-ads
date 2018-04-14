@@ -10,3 +10,4 @@ Ad blocking filter that whitelists good ads. Unlike ABP Acceptable Ads, it is no
 * [BuySellAds](https://buysellads.com)
 * [Connatix](https://connatix.com)
 * [Flipp](https://corp.flipp.com/media)
+* [Reddit Ads](https://reddit.com/advertising)

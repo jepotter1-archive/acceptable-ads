@@ -5,6 +5,8 @@ ecosia.org##.js-funnel-whitelistbox
 duckduckgo.com#@##ads
 duckduckgo.com#@#.has-ad
 duckduckgo.com#@#.result--ad > .result__body
+@@||readthedocs.org*/sustainability
+readthedocs.org#@#.ethical-rtd
 @@||carbonads.com
 @@||carbonads.net
 @@||buysellads.com

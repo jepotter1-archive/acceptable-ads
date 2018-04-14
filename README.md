@@ -9,4 +9,4 @@ Ad blocking filter that whitelists good ads. Unlike ABP Acceptable Ads, it is no
 * [Nativo](https://nativo.com)
 * [BuySellAds](https://buysellads.com)
 * [Connatix](https://connatix.com)
-* [Flipp](https://flipp.com/home)
+* [Flipp](https://corp.flipp.com/media)

@@ -5,6 +5,7 @@ ecosia.org##.js-funnel-whitelistbox
 duckduckgo.com#@##ads
 duckduckgo.com#@#.has-ad
 duckduckgo.com#@#.result--ad
+@@||duckduckgo.com
 @@||carbonads.com
 @@||carbonads.net
 @@||buysellads.com

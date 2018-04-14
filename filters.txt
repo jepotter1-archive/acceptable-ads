@@ -1,6 +1,7 @@
 ecosia.org#@#.results-ads
 ecosia.org#@#.card-ad
 ecosia.org#@#.js-ad
+ecosia.org##.js-funnel-whitelistbox
 @@||duckduckgo.com^$document
 @@||carbonads.com
 @@||carbonads.net

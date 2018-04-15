@@ -18,3 +18,4 @@ Ad blocking filter that whitelists good ads. Unlike ABP Acceptable Ads, it is no
 * Dunhill Travel Deals
 * ShareASale
 * Amazon Product Links
+* Coinhive AuthedMine

@@ -15,3 +15,6 @@ Ad blocking filter that whitelists good ads. Unlike ABP Acceptable Ads, it is no
 * Nativo
 * Flipp
 * TripleLift
+* Dunhill Travel Deals
+* ShareASale
+* Amazon Product Links

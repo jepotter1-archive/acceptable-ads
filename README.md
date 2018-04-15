@@ -13,3 +13,4 @@ Ad blocking filter that whitelists good ads. Unlike ABP Acceptable Ads, it is no
 * Carbon Ads
 * Connatix
 * Flipp
+* TripleLift

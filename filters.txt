@@ -30,3 +30,14 @@ duckduckgo.com#@#.result--ad > .result__body
 readthedocs.io#@#.ethical-rtd
 reddit.com#@#.promotedlink
 reddit.com#@##siteTable_organic
+quora.com#@#.content_box:if(a:has-text(ad))
+quora.com#@#.content_box:if(a:has-text(promoted))
+quora.com#@#.content_box:if(div[class*="advertiser"])
+quora.com#@#a[href^="https://ad.doubleclick.net/"]
+quora.com#@#.text-ad
+quora.com#@#.text-ad-links
+quora.com#@#.text-ads
+quora.com#@#.textAd
+quora.com#@#.text_ad
+quora.com#@#.text_ads
+@@||quora.com/_/$popup,domain=quora.com

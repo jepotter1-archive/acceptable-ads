@@ -8,6 +8,7 @@ Ad blocking filter that whitelists good ads. Unlike ABP Acceptable Ads, it is no
 * ReadTheDocs
 * Reddit
 * JSFiddle
+* Quora
 ### Networks
 * BuySellAds
 * Carbon Ads

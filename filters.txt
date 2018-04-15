@@ -1,12 +1,3 @@
-ecosia.org#@#.results-ads
-ecosia.org#@#.card-ad
-ecosia.org#@#.js-ad
-ecosia.org##.js-funnel-whitelistbox
-duckduckgo.com#@##ads
-duckduckgo.com#@#.has-ad
-duckduckgo.com#@#.result--ad > .result__body
-@@||readthedocs.org*/sustainability
-readthedocs.io#@#.ethical-rtd
 @@||carbonads.com
 @@||carbonads.net
 @@||buysellads.com
@@ -20,6 +11,19 @@ readthedocs.io#@#.ethical-rtd
 @@||postrelease.com
 @@||3lift.com
 @@||triplelift.com
+@@||dunhilltraveldeals.com
+@@||shareasale.com
+@@||amazon-adsystem.com/widgets
+
+@@||crbsrv.jsfiddle.net/ads/
+ecosia.org#@#.results-ads
+ecosia.org#@#.card-ad
+ecosia.org#@#.js-ad
+ecosia.org##.js-funnel-whitelistbox
+duckduckgo.com#@##ads
+duckduckgo.com#@#.has-ad
+duckduckgo.com#@#.result--ad > .result__body
+@@||readthedocs.org*/sustainability
+readthedocs.io#@#.ethical-rtd
 reddit.com#@#.promotedlink
 reddit.com#@##siteTable_organic
-@@||crbsrv.jsfiddle.net/ads/

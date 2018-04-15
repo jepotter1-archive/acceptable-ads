@@ -18,6 +18,8 @@ readthedocs.io#@#.ethical-rtd
 @@||ntv.io
 @@||nativo.com
 @@||postrelease.com
+@@||3lift.com
+@@||triplelift.com
 reddit.com#@#.promotedlink
 reddit.com#@##siteTable_organic
 @@||crbsrv.jsfiddle.net/ads/

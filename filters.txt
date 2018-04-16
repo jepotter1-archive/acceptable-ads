@@ -41,4 +41,5 @@ quora.com#@#.text-ads
 quora.com#@#.textAd
 quora.com#@#.text_ad
 quora.com#@#.text_ads
+@@^utm_source=quora^$popup,domain=quora.com
 @@||quora.com/_/$popup,domain=quora.com

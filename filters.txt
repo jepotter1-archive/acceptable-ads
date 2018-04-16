@@ -5,6 +5,7 @@
 @@||buysellads.com
 @@||servedby-buysellads.com
 @@||beaconads.com
+#@#a[href^="//srv.buysellads.com/"]
 @@||doubleclick.net/ddm
 @@||flyertown.ca
 @@||flipp.com

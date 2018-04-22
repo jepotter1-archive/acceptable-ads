@@ -11,6 +11,7 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 * Reddit
 * JSFiddle
 * Quora
+* Dribbble
 ### Networks
 * BuySellAds
 * Carbon Ads
@@ -21,7 +22,6 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 * Dunhill Travel Deals
 * ShareASale
 * Amazon Product Links
-* Coinhive AuthedMine
 
 ## Criteria
 * Ads should be beautiful and not annoying. Ads should blend nicely with the content on the page and not interrupt the user.

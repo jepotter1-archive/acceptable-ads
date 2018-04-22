@@ -6,6 +6,7 @@
 @@||servedby-buysellads.com
 @@||beaconads.com
 #@#a[href^="//srv.buysellads.com/"]
+@@||doubleclick.net/ddm$popup
 @@||doubleclick.net/ddm
 @@||flyertown.ca
 @@||flipp.com
@@ -18,7 +19,6 @@
 @@||dunhilltraveldeals.com
 @@||shareasale.com
 @@||amazon-adsystem.com/widgets
-@@||authedmine.com
 
 @@||crbsrv.jsfiddle.net/ads/
 ecosia.org#@#.results-ads
@@ -47,3 +47,4 @@ quora.com#@#.text_ads
 @@||quora.com/_/$popup,domain=quora.com
 quora.com#@#.question_page_content:if(div:has-text(ad))
 quora.com#@#.question_page_content:if(div:has-text(promoted)) 
+dribbble.com#@#.ad

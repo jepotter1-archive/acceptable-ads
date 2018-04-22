@@ -45,3 +45,5 @@ quora.com#@#.text_ad
 quora.com#@#.text_ads
 @@^utm_source=quora^$popup,domain=quora.com
 @@||quora.com/_/$popup,domain=quora.com
+quora.com#@#.question_page_content:if(div:has-text(ad))
+quora.com#@#.question_page_content:if(div:has-text(promoted)) 

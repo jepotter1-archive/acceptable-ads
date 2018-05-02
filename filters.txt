@@ -48,3 +48,6 @@ quora.com#@#.text_ads
 quora.com#@#.question_page_content:if(div:has-text(ad))
 quora.com#@#.question_page_content:if(div:has-text(promoted)) 
 dribbble.com#@#.ad
+mail.google.com#@#.aeF > .nH > .nH[role="main"] > .aKB
+mail.google.com#@#a[href^="https://www.googleadservices.com/pagead/aclk?"]
+@@||googleadservices.com/pagead/aclk

@@ -12,6 +12,7 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 * JSFiddle
 * Quora
 * Dribbble
+* Gmail
 ### Networks
 * BuySellAds
 * Carbon Ads

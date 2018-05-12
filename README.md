@@ -27,6 +27,11 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 
 ## Criteria
 * Ads should be beautiful and not annoying. Ads should blend nicely with the content on the page and not interrupt the user.
-* Ads should not use some complicated bidding or targeting system or bring in an excessive amount of third-party exposure. Especially anything using the Google Ads or Google Tag Manager infrastructure, which is a nightmare to attempt to whitelist and is also a huge privacy/security issue.
+* Ads should not use header-to-header bidding or excessive ad-tech. I should not have to whitelist 23 domains just to whitelist one ad.
 * Special exceptions can be made in some cases, e.g. in Ecosia, the point of the search engine is ads, and the search engine plants trees by showing ads. Removing ads from Ecosia would defeat the whole purpose of the search engine.
-* Tracking is okay, but anything elaborate or involving supercookies or browser fingerprinting is not okay.
+
+## Installation
+I recommend the [uBlock Origin](getublockorigin.com) ad blocker. To whitelist acceptable ads in uBlock Origin, go to the "Filter Lists" tab, click "Import" at the bottom of the page, paste the URL below, and click "Save Changes".
+```
+https://raw.githubusercontent.com/jwinnie/acceptable-ads/master/filters.txt
+```

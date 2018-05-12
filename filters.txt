@@ -20,6 +20,7 @@
 @@||shareasale.com
 @@||amazon-adsystem.com/widgets
 @@||adzerk.net
+@@||zkcdn.net
 
 @@||crbsrv.jsfiddle.net/ads/
 ecosia.org#@#.results-ads

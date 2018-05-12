@@ -31,7 +31,7 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 * Special exceptions can be made in some cases, e.g. in Ecosia, the point of the search engine is ads, and the search engine plants trees by showing ads. Removing ads from Ecosia would defeat the whole purpose of the search engine.
 
 ## Installation
-I recommend the [uBlock Origin](getublockorigin.com) ad blocker. To whitelist acceptable ads in uBlock Origin, go to the "Filter Lists" tab, click "Import" at the bottom of the page, paste the URL below, and click "Save Changes".
+I recommend the [uBlock Origin](https://getublockorigin.com) ad blocker. To whitelist acceptable ads in uBlock Origin, go to the "Filter Lists" tab, click "Import" at the bottom of the page, paste the URL below, and click "Save Changes".
 ```
 https://raw.githubusercontent.com/jwinnie/acceptable-ads/master/filters.txt
 ```

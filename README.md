@@ -23,6 +23,7 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 * Dunhill Travel Deals
 * ShareASale
 * Amazon Product Links
+* Adzerk
 
 ## Criteria
 * Ads should be beautiful and not annoying. Ads should blend nicely with the content on the page and not interrupt the user.

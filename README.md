@@ -16,8 +16,6 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 ### Networks
 * BuySellAds
 * Carbon Ads
-* Connatix
-* Nativo
 * Flipp
 * TripleLift
 * Dunhill Travel Deals

@@ -8,9 +8,7 @@
 #@#a[href^="//srv.buysellads.com/"]
 @@||doubleclick.net/ddm$popup
 @@||doubleclick.net/ddm
-@@||dunhilltraveldeals.com
 @@||shareasale.com
-@@||amazon-adsystem.com/widgets
 @@||adzerk.net
 @@||zkcdn.net
 

@@ -16,10 +16,7 @@ However, ad blocking lists like EasyList are dedicated to blocking *all* ads. Th
 ### Networks
 * BuySellAds
 * Carbon Ads
-* Flipp
-* Dunhill Travel Deals
 * ShareASale
-* Amazon Product Links
 * Adzerk
 
 ## Criteria

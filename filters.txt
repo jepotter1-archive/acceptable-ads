@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ! Title: Acceptable Ads
 ! Expires: 7 days
 ! Version: 1.0.0

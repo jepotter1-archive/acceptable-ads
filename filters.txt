@@ -8,8 +8,6 @@
 #@#a[href^="//srv.buysellads.com/"]
 @@||doubleclick.net/ddm$popup
 @@||doubleclick.net/ddm
-@@||flyertown.ca
-@@||flipp.com
 @@||dunhilltraveldeals.com
 @@||shareasale.com
 @@||amazon-adsystem.com/widgets
